@@ -1,3 +1,4 @@
+
 // GET Homepage //
 
 const index = (req, res) => {
